@@ -10,6 +10,13 @@ To view the project, simply visit the following website:
 
 ## Usage
 
+## Usage
+
 Once you open the web page, you will see an image with a magnifying glass overlay. Use your cursor to control the magnifying glass and hover over the image to see the magnified part.
 
-Please note that this website is designed for desktop or tablet devices only. Accessing it on mobile devices may not provide the optimal experience.
+Additionally, you can use the following keyboard shortcuts for zooming:
+
+- Press `Ctrl +` to zoom in.
+- Press `Ctrl -` to zoom out.
+
+Please note that this website is optimized for desktop or tablet devices. Accessing it on mobile devices may not provide the optimal experience.
