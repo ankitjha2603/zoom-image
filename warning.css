@@ -1,0 +1,32 @@
+.warning-box {
+    display: none;
+}
+
+@media only screen and (max-width: 900px) {
+    .warning-box {
+        position: fixed;
+        background-color: #ffffff;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        height: 100vh;
+        width: 100vw;
+        top: 0px;
+        left: 0px;
+        z-index: 10;
+    }
+
+    .warning {
+        text-align: center;
+        display: block !important;
+    }
+
+    .warning>h1 {
+        font-size: 2.5rem;
+    }
+
+    .warning>p {
+        font-size: 1.5rem;
+        margin-top: 1rem;
+    }
+}

@@ -1,0 +1,25 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+.image {
+    max-height: 100vh;
+    aspect-ratio: 5472/3648;
+    max-width: 100vw;
+    background: url(image.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    cursor: none;
+}
+
+.glass {
+    position: fixed;
+    cursor: none;
+    height: 200px;
+    width: 200px;
+    border: 2px solid green;
+    border-radius: 50%;
+    background: url(image.jpg);
+    background-size: 2000%;
+}
