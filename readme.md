@@ -6,7 +6,7 @@ This project is a web page that includes an image with a magnifying glass effect
 
 To view the project, simply visit the following website:
 
-[https://ankitjha2603.github.io/zoom-imag](https://ankitjha2603.github.io/zoom-imag)
+[https://ankitjha2603.github.io/zoom-image](https://ankitjha2603.github.io/zoom-image)
 
 ## Usage
 
