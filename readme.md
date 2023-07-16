@@ -10,8 +10,6 @@ To view the project, simply visit the following website:
 
 ## Usage
 
-## Usage
-
 Once you open the web page, you will see an image with a magnifying glass overlay. Use your cursor to control the magnifying glass and hover over the image to see the magnified part.
 
 Additionally, you can use the following keyboard shortcuts for zooming:
